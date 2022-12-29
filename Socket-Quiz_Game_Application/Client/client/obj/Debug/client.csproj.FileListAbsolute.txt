@@ -1,0 +1,23 @@
+\\Mac\Home\Desktop\client\client\bin\Debug\client.exe.config
+\\Mac\Home\Desktop\client\client\bin\Debug\client.exe
+\\Mac\Home\Desktop\client\client\bin\Debug\client.pdb
+\\Mac\Home\Desktop\client\client\bin\Debug\mscorlib.dll
+\\Mac\Home\Desktop\client\client\bin\Debug\System.Net.Http.dll
+\\Mac\Home\Desktop\client\client\bin\Debug\System.Net.Http.xml
+\\Mac\Home\Desktop\client\client\bin\Debug\tr\mscorlib.resources.dll
+\\Mac\Home\Desktop\client\client\bin\Debug\normidna.nlp
+\\Mac\Home\Desktop\client\client\bin\Debug\normnfc.nlp
+\\Mac\Home\Desktop\client\client\bin\Debug\normnfd.nlp
+\\Mac\Home\Desktop\client\client\bin\Debug\normnfkc.nlp
+\\Mac\Home\Desktop\client\client\bin\Debug\normnfkd.nlp
+\\Mac\Home\Desktop\client\client\obj\Debug\client.Form1.resources
+\\Mac\Home\Desktop\client\client\obj\Debug\client.Properties.Resources.resources
+\\Mac\Home\Desktop\client\client\obj\Debug\client.csproj.GenerateResource.Cache
+\\Mac\Home\Desktop\client\client\obj\Debug\client.exe
+\\Mac\Home\Desktop\client\client\obj\Debug\client.pdb
+\\Mac\Home\Desktop\step 2 submission\client\client\bin\Debug\client.exe.config
+\\Mac\Home\Desktop\step 2 submission\client\client\obj\Debug\client.exe
+\\Mac\Home\Desktop\step 2 submission\client\client\obj\Debug\client.pdb
+\\Mac\Home\Desktop\CS 408\CS 408-term project\step 2 submission\client\client\bin\Debug\client.exe.config
+\\Mac\Home\Desktop\CS 408\CS 408-term project\step 2 submission\client\client\obj\Debug\client.exe
+\\Mac\Home\Desktop\CS 408\CS 408-term project\step 2 submission\client\client\obj\Debug\client.pdb
